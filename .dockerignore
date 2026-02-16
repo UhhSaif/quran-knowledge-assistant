@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Git
+.git/
+.gitignore
+
+# Index files (will be generated)
+index/
+
+# Notebooks
+notebooks/
+*.ipynb
+
+# Tests
+tests/
+*.pytest_cache/
+
+# Documentation
+*.md
+!README.md
+
+# Environment
+.env
+.env.local
+
+# Misc
+.DS_Store
+deployment/
